@@ -1,0 +1,4 @@
+train_learngene的结果保存在这里
+
+这里保存了每一层的网络结构，准确率
+网络参数的checkpoint文件保存在val_outputs中
