@@ -1,0 +1,5 @@
+Training Epoch: 0 Test set: Average loss: 1.6096904039382935, Accuracy: tensor(20.)
+Training Epoch: 1 Test set: Average loss: 1.6096488571166991, Accuracy: tensor(20.)
+Training Epoch: 2 Test set: Average loss: 1.609588189125061, Accuracy: tensor(20.)
+Training Epoch: 3 Test set: Average loss: 1.6098542594909668, Accuracy: tensor(13.)
+Training Epoch: 4 Test set: Average loss: 1.6095904970169068, Accuracy: tensor(20.)
